@@ -1,4 +1,4 @@
 # Agendamento para Barbearias
 Projeto SpringBoot
 
-API documentada com Swagger
+O projeto não possui views, API documentada com Swagger.
